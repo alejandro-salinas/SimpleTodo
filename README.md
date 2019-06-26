@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Most of the difficulty of the project surrounded initializing Android Studio. I had trouble getting the sample project to build, but once all of the correct SDK's were downloaded, I proceeded with completing the project fairly easily. However, I did not add additional features beyond the list of required features.
 
 ## License
 
